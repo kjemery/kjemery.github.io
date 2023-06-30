@@ -9,6 +9,12 @@ a {
     color: #1565c0;
 }
 
+.header {
+    background-color: #F1F1F1;
+    text-align: left;
+    padding: 20px;
+}
+
 a:hover {
     color: #217ee7;
 }
