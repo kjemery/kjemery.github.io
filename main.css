@@ -11,8 +11,8 @@ a {
 
 /* CSS for the navigation bar */
 .navbar {
-    background-color: #333;
-    color: #fff;
+    background-color:  #F1F1F1;
+    color: #333;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -36,7 +36,7 @@ a {
   }
   
   nav ul li a {
-    color: #fff;
+    color: #333;
     text-decoration: none;
   }
   
@@ -48,12 +48,6 @@ a {
     display: flex;
     justify-content: space-between;
     align-items:center;
-}
-
-.header {
-    background-color: #F1F1F1;
-    text-align: left;
-    padding: 20px;
 }
 
 a:hover {
