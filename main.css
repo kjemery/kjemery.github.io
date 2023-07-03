@@ -13,6 +13,10 @@ body.home {
     background-image: url("background.jpeg");
 }
 
+body.papers {
+    margin-bottom: 100px;
+}
+
 /* CSS for the navigation bar */
 .navbar {
     background-color:  #F1F1F1;
@@ -108,7 +112,6 @@ a:hover {
 .paper-entry { 
     display: flex;
     align-items: center;
-    margin-bottom: 5px;
     text-align: center;
     justify-content: center;
     text-align: justify;
